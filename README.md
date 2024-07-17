@@ -53,10 +53,10 @@ The OR operator `|` is not used in this regex.
 ### Character Classes  
 Character classes match any one of the characters inside them.
 
-`[a-z]`: Matches any lowercase letter.
-`[A-Z]`: Matches any uppercase letter.
-`\d`: Matches any digit.
-`[@$!%*?&]`: Matches any of the specified special characters.
+- `[a-z]`: Matches any lowercase letter.  
+- `[A-Z]`: Matches any uppercase letter.  
+- `\d`: Matches any digit.  
+- `[@$!%*?&]`: Matches any of the specified special characters.  
 
 ### Flags
 

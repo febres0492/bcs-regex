@@ -43,12 +43,20 @@ In our regex, ^ ensures the match starts at the beginning, and $ ensures it ends
 
 Quantifiers specify how many times an element in a regex should be matched.
 
-{8,}: Matches 8 or more of the preceding token.
-In our regex, {8,} ensures the password is at least 8 characters long.
+`{8,}`: Matches 8 or more of the preceding token.
+In our regex, `{8,}` ensures the password is at least 8 characters long.
 
-### OR Operator
+### OR Operator  
 
-### Character Classes
+The OR operator `|` is not used in this regex.
+
+### Character Classes  
+Character classes match any one of the characters inside them.
+
+`[a-z]`: Matches any lowercase letter.
+`[A-Z]`: Matches any uppercase letter.
+`\d`: Matches any digit.
+`[@$!%*?&]`: Matches any of the specified special characters.
 
 ### Flags
 

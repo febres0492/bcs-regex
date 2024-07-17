@@ -29,9 +29,22 @@ Here is the regex pattern:
 
 ## Regex Components
 
-### Anchors
+### Anchors  
 
-### Quantifiers
+Anchors are used to ensure the regex matches from the start or end of a string.
+
+^: Asserts the position at the start of the string.
+$: Asserts the position at the end of the string.
+In our regex, ^ ensures the match starts at the beginning, and $ ensures it ends at the end.
+
+<br>
+
+### Quantifiers  
+
+Quantifiers specify how many times an element in a regex should be matched.
+
+{8,}: Matches 8 or more of the preceding token.
+In our regex, {8,} ensures the password is at least 8 characters long.
 
 ### OR Operator
 

@@ -1,10 +1,17 @@
-# bcs-regex
+# Bcs Regex
+## Understanding the Password Strength Validation
 
-Introductory paragraph (replace this with your text)
+Regular expressions are powerful tools for pattern matching in strings. In this tutorial, we will break down a regex pattern used for validating strong passwords.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+We will explore the regex pattern used for password strength validation. This pattern ensures that a password contains at least one lowercase letter, one uppercase letter, one digit, and one special character, with a minimum length of 8 characters.  
+
+Here is the regex pattern:
+```
+^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$
+```
+<br>
 
 ## Table of Contents
 

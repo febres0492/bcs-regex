@@ -125,10 +125,8 @@ Look-ahead assertions ensure certain patterns are present in the string.
 <br>
 
 ## Author
-Carlos Febres
-
-[![Go to Profile >>](https://img.shields.io/badge/Go_to_Profile_>>-darkgreen?style=for-the-badge)](https://github.com/febres0492)  
+This tutorial was created by Carlos Febres, a passionate developer with a love for coding and sharing knowledge. For more tutorials and code, visit my GitHub profile.
 
 https://github.com/febres0492
+[![Go to Profile >>](https://img.shields.io/badge/Go_to_Profile_>>-darkgreen?style=for-the-badge)](https://github.com/febres0492)  
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)

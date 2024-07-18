@@ -2,7 +2,7 @@
 ## Understanding the Password Strength Validation
 
 Regular expressions are powerful tools for pattern matching in strings.  
-In this tutorial there is a break down of regex pattern used for validating strong passwords.
+This tutorial breaks down a regex pattern used for validating strong passwords.
 
 ## Summary
 

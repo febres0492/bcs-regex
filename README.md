@@ -17,16 +17,16 @@ Here is the regex pattern:
 
 | Regex Part | Description |
 |------------|-------------|
-| ![start](https://img.shields.io/badge/^-blue) | [Ensures the match starts at the beginning of the string.](#anchors) |
-| ![lowercase](https://img.shields.io/badge/-%28%3F%3D.*%5Ba--z%5D%29-blue) | [Ensures there is at least one lowercase letter.](#look-ahead-and-look-behind) |
-| ![uppercase](https://img.shields.io/badge/-%28%3F%3D.*%5BA--Z%5D%29-green) | [Ensures there is at least one uppercase letter.](#look-ahead-and-look-behind) |
-| ![digit](https://img.shields.io/badge/-%28%3F%3D.*%5Cd%29-red) | [Ensures there is at least one digit.](#look-ahead-and-look-behind) |
-| ![special](https://img.shields.io/badge/-%28%3F%3D.*%5B%40%24%21%25%2A%3F%26%5D%29-purple) | [Ensures there is at least one special character.](#look-ahead-and-look-behind) |
-| ![characters](https://img.shields.io/badge/-[A--Za--z%5Cd%40%24%21%25%2A%3F%26]%7B8%2C%7D-orange) | [Matches any letter (uppercase or lowercase), digit, or specified special character, at least 8 times.](#quantifiers) |
-| ![end](https://img.shields.io/badge/$-blue) | [Ensures the match ends at the end of the string.](#anchors) |
+| [![start](https://img.shields.io/badge/^-blue)](#anchors) | Ensures the match starts at the beginning of the string. |
+| [![lowercase](https://img.shields.io/badge/-%28%3F%3D.*%5Ba--z%5D%29-blue)](#look-ahead-and-look-behind) | Ensures there is at least one lowercase letter. |
+| [![uppercase](https://img.shields.io/badge/-%28%3F%3D.*%5BA--Z%5D%29-green)](#look-ahead-and-look-behind) | Ensures there is at least one uppercase letter. |
+| [![digit](https://img.shields.io/badge/-%28%3F%3D.*%5Cd%29-red)](#look-ahead-and-look-behind) | Ensures there is at least one digit. |
+| [![special](https://img.shields.io/badge/-%28%3F%3D.*%5B%40%24%21%25%2A%3F%26%5D%29-purple)](#look-ahead-and-look-behind) | Ensures there is at least one special character. |
+| [![characters](https://img.shields.io/badge/-[A--Za--z%5Cd%40%24%21%25%2A%3F%26]%7B8%2C%7D-orange)](#quantifiers) | Matches any letter (uppercase or lowercase), digit, or specified special character, at least 8 times. |
+| [![end](https://img.shields.io/badge/$-blue)](#anchors) | Ensures the match ends at the end of the string. |
 
-[![Go to Profile >>](https://img.shields.io/badge/Go_to_Profile_>>-darkgreen?style=for-the-badge)](#anchors)  
 
+<br>
 
 ## Table of Contents
 

@@ -50,9 +50,9 @@ Here is the regex pattern:
 
 Anchors are used to make sure the regex matches from the start or end of a string.
 
-^: Asserts the position at the start of the string.
-$: Asserts the position at the end of the string.
-In our regex, ^ ensures the match starts at the beginning, and $ ensures it ends at the end.
+`^`: Asserts the position at the start of the string.  
+`$`: Asserts the position at the end of the string.  
+In our regex, `^` ensures the match starts at the beginning, and `$` ensures it ends at the end.
 
 <br>
 

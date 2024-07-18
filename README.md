@@ -1,8 +1,10 @@
 # Bcs Regex
-## Understanding the Password Strength Validation
+### Understanding the Password Strength Validation
 
 Regular expressions are powerful tools for pattern matching in strings.  
 This tutorial breaks down a regex pattern used for validating strong passwords.
+
+<br>
 
 ## Summary
 
@@ -124,5 +126,9 @@ Look-ahead assertions ensure certain patterns are present in the string.
 
 ## Author
 Carlos Febres
+
+[![Go to Profile >>](https://img.shields.io/badge/Go_to_Profile_>>-darkgreen?style=for-the-badge)](https://github.com/febres0492)  
+
+https://github.com/febres0492
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)

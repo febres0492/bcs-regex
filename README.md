@@ -1,5 +1,4 @@
-# Bcs Regex
-### Understanding the Password Strength Validation
+# Regex Password Strength Validation
 
 Regular expressions are powerful tools for pattern matching in strings.  
 This tutorial breaks down a regex pattern used for validating strong passwords.
